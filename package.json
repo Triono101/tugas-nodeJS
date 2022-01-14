@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index2.js"
   },
+  "keywords": [
+    "tugas",
+    "heroku"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Triono101/tugas-nodeJS.git"
@@ -24,5 +28,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.13.1"
   }
 }
